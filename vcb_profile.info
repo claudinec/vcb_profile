@@ -1,4 +1,4 @@
 name = ViCBiostat
 description = Installation profile for Victorian Centre for Biostatistics
-version = 1.0
+version = 0.9
 core = 7.x
