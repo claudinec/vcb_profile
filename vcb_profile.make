@@ -119,7 +119,7 @@ projects[fusion][version] = 2.0-beta2
 projects[vcb_theme][type] = "theme"
 projects[vcb_theme][subdir] = "custom"
 projects[vcb_theme][download][type] = "git"
-projects[vcb_theme][download][url] = "git@github.com:claudinec/vcb_theme.git"
+projects[vcb_theme][download][url] = "git://github.com/claudinec/vcb_theme.git"
 
 ; Libraries
 
