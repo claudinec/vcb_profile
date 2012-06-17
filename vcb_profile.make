@@ -89,3 +89,7 @@ projects[vcb_theme][download][url] = "git://github.com/claudinec/vcb_theme.git"
 
 libraries[ckeditor][download][type] = get
 libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.2/ckeditor_3.6.2.zip
+
+projects[phpsass][type] = "library"
+projects[phpsass][download][type] = "git"
+projects[phpsass][download][url] = "git://github.com/richthegeek/phpsass.git"
