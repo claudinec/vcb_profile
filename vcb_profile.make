@@ -12,7 +12,7 @@ projects[admin_menu][version] = 3.0-rc3
 
 projects[auto_nodetitle][version] = 1.0
 
-projects[backup_migrate][version] = 2.3
+projects[backup_migrate][version] = 2.4
 
 ; no stable in 7.x yet
 projects[conditional_fields][version] = 3.x-dev
@@ -31,7 +31,7 @@ projects[ds][version] = 1.5
 
 projects[entity][version] = 1.0-rc3
 
-projects[entityreference][version] = 1.0-rc1
+projects[entityreference][version] = 1.0-rc3
 
 projects[features][version] = 1.0-rc2
 
