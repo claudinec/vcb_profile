@@ -43,6 +43,8 @@ projects[libraries][version] = 1.0
 
 projects[linkit][version] = 2.5
 
+projects[linkit_views][version] = 1.2
+
 projects[logintoboggan][version] = 1.3
 
 projects[masquerade][version] = 1.0-rc4
